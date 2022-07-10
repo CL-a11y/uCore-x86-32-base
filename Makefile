@@ -18,7 +18,6 @@ lab4: test6 test7
 
 lab5: test8
 
-
 test1:
 	git submodule init
 	git submodule update
