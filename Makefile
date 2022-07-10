@@ -2,51 +2,7 @@
   
 SHELL := /bin/bash
 
-DOCKER_NAME ?= uCore-x86-32-Base
-DIR := workplace
-
-
-test: test1 test2
-
-lab1: test3
-
-lab2: test4
-
-lab3: test5
-
-lab4: test6 test7
-
-lab5: test8
-
-test1:
-	git submodule init
-	git submodule update
-
-test2:
-	git submodule init
-	git submodule update
-	
-test3:
-	git submodule init
-	git submodule update
-
-test4:
-	git submodule init
-	git submodule update
-	
-test5:
-	git submodule init
-	git submodule update
-
-test6:
-	git submodule init
-	git submodule update
-	
-test7:
-	git submodule init
-	git submodule update
-	
-test8:
+setup:
 	git submodule init
 	git submodule update
 
