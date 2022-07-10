@@ -4,7 +4,7 @@
 
 [submodule "uCore-x86-32-test"]
 	path = uCore-x86-32-test
-	url = https://github.com/CL-a11y/uCore-x86-32-conf
+	url = https://github.com/CL-a11y/uCore-x86-32-test
 
 [submodule "uCore-x86-32-conf"]
 	path = uCore-x86-32-conf
