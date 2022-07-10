@@ -1,0 +1,15 @@
+[submodule "uCore-x86-32-lab"]
+	path = uCore-x86-32-lab
+	url = 
+[submodule "uCore-x86-32-test"]
+	path = uCore-x86-32-test
+	url = 
+[submodule "uCore-x86-32-conf"]
+	path = uCore-x86-32-conf
+	url = https://github.com/CL-a11y/uCore-x86-32-conf
+[submodule "uCore-x86-32-answer"]
+	path = uCore-x86-32-answer
+	url = 
+[submodule "uCore-x86-32-doc"]
+	path = uCore-x86-32-doc
+	url = https://github.com/CL-a11y/uCore-x86-32-doc
